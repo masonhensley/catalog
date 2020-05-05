@@ -5,10 +5,12 @@ projects:
   - calendrier
   - event_cal
   - event_calendar
+  
   - fnando/has_calendar
   - icalendar
   - later_dude
   - namxam/weekly_builder
   - ri_cal
   - selene
+  - simple_calendar
   - streakable
