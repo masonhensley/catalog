@@ -5,6 +5,7 @@ projects:
   - calendrier
   - event_cal
   - event_calendar
+  - excid3/simple_calendar
   - fnando/has_calendar
   - icalendar
   - later_dude
